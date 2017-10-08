@@ -25,7 +25,8 @@ SECRET_KEY = '&iajcj+@iqckni0f+c(0^tmwx$2shf2y$ts6or$8@bqh)6$*ju'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    'griggs333.pythonanywhere.com']
 
 
 # Application definition
